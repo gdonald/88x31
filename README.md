@@ -1,4 +1,10 @@
-# 88x31
+## 88x31
 
-Search and view icons: [https://gdonald.github.io/88x31](https://gdonald.github.io/88x31)
+### View icons:
+
+[https://gdonald.github.io/88x31](https://gdonald.github.io/88x31)
+
+##
+
+![https://gdonald.github.io/88x31/i/SiliconValley_Park_4193_netscape.gif](https://gdonald.github.io/88x31/i/SiliconValley_Park_4193_netscape.gif) &nbsp;![https://gdonald.github.io/88x31/i/RainForest_Vines_3691_geocities.gif](https://gdonald.github.io/88x31/i/RainForest_Vines_3691_geocities.gif)
 
